@@ -15,7 +15,7 @@ To convert raw, unorganized ride data into a structured format and create a dash
 🛠️ Tools & Technologies
 MySQL → Data cleaning, transformation, querying
 Power BI → Data visualization & dashboard creation
-Excel (optional) → Initial data handling (if used)
+Excel (optional) → Initial data handling
 🔧 Key Steps Involved
 Cleaned 100K+ rows of raw Ola ride data
 Solved top 10 business questions using SQL
