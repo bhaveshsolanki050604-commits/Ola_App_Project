@@ -2,6 +2,7 @@
 Cleaned 100K+ Ola dataset with MySQL and visualized it in a 5-page Power BI dashboard showing key insights on rides, revenue, cancellations, vehicle usage, and ratings.
 
 🚖 **Ola Data Analysis Dashboard (MySQL + Power BI)**
+
 📌 Project Overview
 
 This project focuses on analyzing large-scale Ola ride data to extract meaningful business insights. The dataset contained over 100,000+ records and was initially messy and unstructured.
@@ -25,6 +26,7 @@ Imported data into Power BI for further refinement
 Designed a 5-page interactive dashboard
 
 📊 **Dashboard Structure**
+
 1️⃣ Overall Performance
 Total rides, revenue, and key metrics
 High-level business overview
