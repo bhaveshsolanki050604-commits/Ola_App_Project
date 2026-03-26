@@ -3,55 +3,66 @@ Cleaned 100K+ Ola dataset with MySQL and visualized it in a 5-page Power BI dash
 
 🚖 Ola Data Analysis Dashboard (MySQL + Power BI)
 
-Cleaned 100K+ Ola dataset with MySQL and visualized it in a 5-page Power BI dashboard showing key insights on rides, revenue, cancellations, vehicle usage, and ratings.
+Cleaned and analyzed 100K+ Ola ride records using MySQL and built a 5-page interactive Power BI dashboard to uncover insights on rides, revenue, cancellations, vehicle usage, and ratings.
 
 📌 Project Overview
 
-This project focuses on analyzing large-scale Ola ride data to extract meaningful business insights. The dataset contained over 100,000+ records and was initially messy and unstructured.
+This project analyzes large-scale Ola ride data to extract meaningful business insights.
 
-I used MySQL to clean, transform, and answer key business questions, and then imported the refined data into Power BI to build an interactive and insight-driven dashboard.
+The dataset contained over 100,000+ records and was initially messy and unstructured.
+
+Using MySQL, the data was cleaned, transformed, and structured.
+
+The refined dataset was then visualized in Power BI through an interactive dashboard.
 
 🎯 Objective
-
-To convert raw, unorganized ride data into a structured format and create a dashboard that helps understand business performance, customer behavior, and operational efficiency.
-
+Convert raw data into structured format
+Analyze key business metrics
+Build an interactive dashboard for insights
 🛠️ Tools & Technologies
-MySQL → Data cleaning, transformation, querying
-Power BI → Data visualization & dashboard creation
-Excel (optional) → Initial data handling
-🔧 Key Steps Involved
-Cleaned 100K+ rows of raw Ola ride data
+MySQL – Data cleaning & querying
+Power BI – Dashboard & visualization
+🔧 Process
+Cleaned and structured 100K+ records
 Solved top 10 business questions using SQL
-Structured and optimized the dataset for analysis
-Imported data into Power BI for further refinement
-Designed a 5-page interactive dashboard
-📊 Dashboard Structure
-1️⃣ Overall Performance
-Total rides, revenue, and key metrics
-High-level business overview
-2️⃣ Vehicle Type & Usage
-Ride distribution by vehicle types
-Most used vehicle categories
-3️⃣ Revenue Analysis
-Revenue trends and breakdown
-Key contributors to revenue
-4️⃣ Cancellations Analysis
-Driver vs Customer cancellations
-Patterns and possible reasons
-5️⃣ Ratings Analysis
-Customer and driver ratings
-Service quality insights
+Prepared data for visualization
+Built a 5-page dashboard in Power BI
+📊 Dashboard Pages
+
+1. Overall Performance
+
+Total rides, revenue, key metrics
+
+2. Vehicle Usage
+
+Usage by vehicle types
+Category comparison
+
+3. Revenue Analysis
+
+Revenue trends
+Key contributors
+
+4. Cancellations
+
+Driver vs customer cancellations
+Pattern analysis
+
+5. Ratings
+
+Customer ratings
+Driver ratings
 📈 Key Insights
-Identified top-performing vehicle categories
-Analyzed revenue-driving factors
-Discovered cancellation patterns from both drivers and customers
-Evaluated customer satisfaction through ratings
-Provided a clear view of operational performance
-💡 What This Project Demonstrates
-Strong data cleaning & preprocessing skills
-Ability to use SQL for real-world problem solving
-Expertise in building interactive dashboards in Power BI
-Understanding of business insights & storytelling with data
+Identified top-performing vehicle types
+Analyzed revenue patterns
+Found cancellation trends
+Evaluated service quality through ratings
+💡 Skills Demonstrated
+Data Cleaning (MySQL)
+SQL Querying
+Data Visualization (Power BI)
+Business Insight Generation
+
 🚀 Conclusion
 
-This project showcases the end-to-end data analysis process — from raw data cleaning in MySQL to delivering actionable insights through a structured Power BI dashboard.
+This project demonstrates an end-to-end data analysis workflow — from raw data cleaning to delivering actionable insights using Power BI.
